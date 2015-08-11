@@ -1,27 +1,17 @@
-== README
+== PlentyOfTreats
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+PlentyofTreats is for the practice of the following:
 
-Things you may want to cover:
 
-* Ruby version
+* Initiate and complete omniauth-facebook
 
-* System dependencies
+* Build front-end with bootstrap theme (Freelancer)
 
-* Configuration
+* Working with other APIs for practicing consuming apis.
 
-* Database creation
+* Build rails app
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deploy at heroku
 
 
 Please feel free to use a different markup language if you do not plan to run
